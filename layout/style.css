@@ -23,11 +23,6 @@ header div {
   align-items: center;
   margin: 40px 25px;
 }
-.aritcle {
-  position: relative;
-  top: 10vh;
-  left: 25vw;
-}
 .aside {
   display: flex;
   align-items: center;
@@ -35,13 +30,18 @@ header div {
   background-color: #6edb6e;
   width: 30vw;
   height: 40vh;
+  color:#fff;
 }
-
 .article-sec {
   background-color: #fbb04c;
   width: 60vw;
 }
-
+.aritcle {
+  position: relative;
+  top: 10vh;
+  left: 25vw;
+  color:#fff;
+}
 .img-sec img {
   height: 15vh;
   margin-top: 20vh;
